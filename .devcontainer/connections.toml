@@ -1,7 +1,7 @@
 # Can override the default connection name with an environment variable as follows
-#export SNOWFLAKE_DEFAULT_CONNECTION_NAME="ide_vs_studio"
+#export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
-[ide_vs_studio]
+[default]
 account = "KQB07510"
 user = "SNOWCR"
 password = "@#Di#B!^0n%O3%"
